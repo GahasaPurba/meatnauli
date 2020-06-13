@@ -47,7 +47,7 @@
             <div class="col-11 col-md-5 col-lg-4 m-lr-auto">
                 <div class="how-bor1 ">
                     <div class="hov-img0">
-                        <img alt="Information" src="{{ asset('frontend/images/geografis.png') }}">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31892.455211465647!2d98.9838663672546!3d2.3168288419314673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x302e1b2618ee6569%3A0x36e2c26fb20124ca!2sMeat%2C%20Tampahan%2C%20Kabupaten%20Toba%20Samosir%2C%20Sumatera%20Utara!5e0!3m2!1sid!2sid!4v1592065368746!5m2!1sid!2sid" width="500" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
                 </div>
             </div>
