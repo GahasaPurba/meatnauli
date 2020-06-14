@@ -80,6 +80,8 @@
                                             <h6 class="dropdown-header">Profile</h6>
                                             <a href="{{ route('editprofile.edit', Auth::user()->id) }}" class="dropdown-item">Edit Profile</a>
                                             <div class="dropdown-divider"></div>
+                                            <a href="{{ url('/') }}" class="dropdown-item">Back To Website</a>
+                                            <div class="dropdown-divider"></div>
                                             <a href="{{ route('logout') }}" class="dropdown-item text-danger" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>
                                             <form id="logout-form" method="POST" action="{{ route('logout') }}" style="display: none;">
                                                 @csrf
