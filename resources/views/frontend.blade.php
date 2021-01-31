@@ -139,7 +139,6 @@
         </div>
     </div>
 </div>
-{{--
 <section class="sec-product bg0 p-t-100 p-b-50">
     <div class="container">
         <div class="p-b-32">
@@ -169,7 +168,7 @@
                         </div>
                         <div class="col-lg-6 col-sm-12 mt-4">
                             <p class="stext-102 cl2 text-justify">
-                                <b>Desa Meat merupakan sebuah desa wisata yang terletak di Kecamatan Tampahan, Kabupaten Toba, Provinsi Sumatera Utara.
+                                Desa Meat merupakan sebuah desa wisata yang terletak di Kecamatan Tampahan, Kabupaten Toba, Provinsi Sumatera Utara.
                                 Desa ini memiliki jarak tempuh sekitar 30 Menit dari Kota Balige menggunakan kendaraan
                                 bermotor, sedangkan jarak dari kantor Kepala Desa ke Kantor Kecamatan sekitar 5 Kilometer. Desa Meat dapat dicapai
                                 melalui jalan darat menggunakan kendaraan bermotor dan dengan perahu melalui Danau Toba. Saat ini, perjalanan
@@ -178,7 +177,7 @@
                                 berada di antara perbukitan dan Danau Toba. <br><br>
                                 Data Badan Pusat Statistik Kabupaten Toba menyebutkan bahwa Desa Meat terletak pada koordinat
                                 2 19’23.01” LU dan 99 00’18.09” BT, serta berada pada ketinggian 979 MDPL. Luas desa
-                                mencapai 3 Kilometer Persegi atau 12,27% luas wilayah Kecamatan Tampahan.</b>
+                                mencapai 3 Kilometer Persegi atau 12,27% luas wilayah Kecamatan Tampahan.
                             </p>
                         </div>
                     </div>
@@ -192,8 +191,8 @@
                         </div>
                         <div class="col-lg-6 col-sm-12 my-auto">
                             <p class="stext-102 cl2 text-justify">
-                                <b>Desa Meat Berada Di Wilayah Pemerintahan Kabupaten Toba, Yang Dipimpin Oleh Bapak Ir. Darwin Siagian, M.Sc Sebagai Bupati dan Bapak Ir. Hulman Sitorus, MM Sebagai Wakil Bupati.
-                                Desa Meat Sendiri Dipimpin Oleh Seorang Kepala Desa Bernama Bapak Janri Simanjuntak.</b>
+                                Desa Meat Berada Di Wilayah Pemerintahan Kabupaten Toba, Yang Dipimpin Oleh Bapak Ir. Darwin Siagian, M.Sc Sebagai Bupati dan Bapak Ir. Hulman Sitorus, MM Sebagai Wakil Bupati.
+                                Desa Meat Sendiri Dipimpin Oleh Seorang Kepala Desa Bernama Bapak Janri Simanjuntak.
                             </p>
                         </div>
                     </div>
@@ -207,8 +206,8 @@
                         </div>
                         <div class="col-lg-6 col-sm-12 my-auto">
                             <p class="stext-102 cl2 text-justify">
-                                <b>Jumlah penduduk yang bermukim di Desa Meat pada tahun 2020 mencapai kurang lebih 876 KK. Mayoritas penduduk berpenghasilan sebagai Petani. Untuk menambah penghasilan,
-                                ibu-ibu di Desa Meat juga berprofesi sebagai Penenun Ulos yang merupakan salah satu oleh-oleh khas dari desa ini.</b>
+                                Jumlah penduduk yang bermukim di Desa Meat pada tahun 2020 mencapai kurang lebih 876 KK. Mayoritas penduduk berpenghasilan sebagai Petani. Untuk menambah penghasilan,
+                                ibu-ibu di Desa Meat juga berprofesi sebagai Penenun Ulos yang merupakan salah satu oleh-oleh khas dari desa ini.
                             </p>
                         </div>
                     </div>
@@ -222,7 +221,6 @@
         </div>
     </div>
 </section>
---}}
 <section class="sec-product bg0 p-t-100 p-b-50">
 	<div class="container">
 		<div class="p-b-32">
