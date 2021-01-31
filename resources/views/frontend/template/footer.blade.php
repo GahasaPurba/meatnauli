@@ -174,7 +174,7 @@
                 Copyright &copy;<script>
                     document.write(new Date().getFullYear());
 
-                </script> All Rights Reserved | This Website Is Developed By <a href="https://www.del.ac.id/" target="_blank">IT Del</a>
+                </script> All Rights Reserved | This Website Is Developed By <a href="https://www.del.ac.id/" target="_blank">Kelompok 03 PA 1 - IT Del</a>
                 {{--Made With <i class="fa fa-heart-o" aria-hidden="true"></i>--}}
             </p>
         </div>
