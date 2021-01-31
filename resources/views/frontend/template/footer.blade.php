@@ -123,7 +123,6 @@
                     </li>
                 </ul>
             </div>
-            @if (Auth::check())
             <div class="col-sm-6 col-lg-3 p-b-50">
                 <h4 class="stext-101 cl0 p-b-30">
                     <b>User Feedback</b>
@@ -137,6 +136,7 @@
                     </button>
                 </div>
             </div>
+            @if (Auth::check())
             <div class="col-sm-6 col-lg-3 p-b-50">
                 <h4 class="stext-101 cl0 p-b-30">
                     <b>Berlangganan</b>
