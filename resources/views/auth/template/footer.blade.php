@@ -3,13 +3,13 @@
         <div class="row align-items-center justify-content-xl-between">
             <div class="col-xl-6">
                 <div class="copyright text-center text-xl-left text-muted">
-                    &copy; <a href="#" class="font-weight-bold ml-1">2020</a>
+                    &copy; <a href="#" class="font-weight-bold ml-1">2021</a>
                 </div>
             </div>
             <div class="col-xl-6">
                 <ul class="nav nav-footer justify-content-center justify-content-xl-end">
                     <li class="nav-item">
-                        <a href="https://www.del.ac.id/" class="nav-link" target="_blank">Institut Teknologi Del</a>
+                        <a href="https://www.del.ac.id/" class="nav-link" target="_blank">Kelompok 03 PA 1 - IT Del</a>
                     </li>
                 </ul>
             </div>
