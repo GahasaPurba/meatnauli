@@ -3,7 +3,7 @@
         <div class="row align-items-center justify-content-xl-between">
             <div class="col-xl-6">
                 <div class="copyright text-center text-xl-left text-muted">
-                    &copy; <a href="#" class="font-weight-bold ml-1">2021</a>
+                    &copy; <a href="#" class="font-weight-bold ml-1"><script>document.write(new Date().getFullYear());</script></a>
                 </div>
             </div>
             <div class="col-xl-6">
