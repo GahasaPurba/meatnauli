@@ -26,7 +26,7 @@
                 <ul class="nav">
                     <li class="nav-item">
                         <a href="https://www.del.ac.id/" target="_blank" class="nav-link">
-                            &copy; 2020 Institut Teknologi Del
+                            &copy; 2021 Kelompok 03 PA 1 - IT Del
                         </a>
                     </li>
                 </ul>
