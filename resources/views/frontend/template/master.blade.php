@@ -65,11 +65,9 @@ $jumlahtransaksi = $transaksi->count();
                             <li>
                                 <a href="{{ route('information') }}">Informasi</a>
                             </li>
-                            {{--
                             <li>
                                 <a href="{{ url('/tentangkami') }}">Tentang Kami</a>
                             </li>
-                            --}}
                         </ul>
                     </div>
                     <div class="wrap-icon-header flex-w flex-r-m h-full menu-desktop">
