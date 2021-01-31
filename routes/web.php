@@ -70,10 +70,6 @@ Route::group(['middleware' => 'verified'], function () {
     Route::get('/itemsearch', 'ItemController@search')->name('itemsearch');
     Route::get('/itemexcel', 'ItemController@excel')->name('itemexcel');
     Route::get('/itempdf', 'ItemController@pdf')->name('itempdf');
-    Route::get('/qna', 'QnaController@qna')->name('qna');
-    Route::get('/qnadetail/{slug}', 'QnaController@singleqna')->name('singleqna');
-    Route::get('/qnacategories/{category}', 'QnaController@category')->name('qnacategory');
-    Route::get('/qnasearch', 'QnaController@search')->name('qnasearch');
     Route::post('/souvenirorder/{id}', 'SouvenirController@order')->name('souvenir.order');
     Route::patch('/checkoutupdate/{id}', 'SouvenirController@update')->name('souvenir.update');
     Route::get('/shoppingcart', 'SouvenirController@shoppingcart')->name('souvenir.shoppingcart');
@@ -100,6 +96,10 @@ Route::get('/blogdetail/{slug}', 'BlogController@singleblog')->name('singleblog'
 Route::get('/blogcategories/{category}', 'BlogController@category')->name('blogcategory');
 Route::get('/blogtags/{tag}', 'BlogController@tag')->name('blogtag');
 Route::get('/blogsearch', 'BlogController@search')->name('blogsearch');
+Route::get('/qna', 'QnaController@qna')->name('qna');
+Route::get('/qnadetail/{slug}', 'QnaController@singleqna')->name('singleqna');
+Route::get('/qnacategories/{category}', 'QnaController@category')->name('qnacategory');
+Route::get('/qnasearch', 'QnaController@search')->name('qnasearch');
 Route::get('/souvenir', 'SouvenirController@souvenir')->name('souvenir');
 Route::get('/souvenirdetail/{slug}', 'SouvenirController@singlesouvenir')->name('singlesouvenir');
 Route::get('/souvenircategories/{category}', 'SouvenirController@category')->name('souvenircategory');
